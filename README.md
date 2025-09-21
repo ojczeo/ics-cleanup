@@ -7,8 +7,9 @@ This script should help to remove unnecessary information, but be aware, that no
 
 ## Usage
 invoke this script like this:
-1. Download `cleanup.sh`
-1. Make it executable `chmod +x cleanup.sh`
-1. Execute with your ICS file as parameter `./cleanup.sh <mycalendarfile.ics>`
+`python3 ics-cleanup.py {filename}`
 
 The script will create a backup first, before applying any changes! look for a `.backup` file if you need to go back.
+
+### Thanks and remarks
+based on `ics-cleaner` from https://github.com/metawave/ics-cleanup written by @metawave
