@@ -12,4 +12,4 @@ invoke this script like this:
 The script will create a backup first, before applying any changes! look for a `.backup` file if you need to go back.
 
 ### Thanks and remarks
-based on `ics-cleaner` from https://github.com/metawave/ics-cleanup written by @metawave
+based on `ics-cleaner` from https://github.com/metawave/ics-cleanup written by https://github.com/metawave
